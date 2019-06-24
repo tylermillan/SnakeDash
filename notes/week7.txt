@@ -1,0 +1,11 @@
+	The focus of this weeks was mainly focused on creating the head of the snake in 
+the game. It alsi involved creating the food aspect of the game which spawns food at a
+random location on the board which acts as the target for the user. This involved 
+meeting for 4 hours and discussing how we were going to go about implementing this.
+We decided on using the rand function for generating which spot on the board the food 
+is placed. This then keeps score of how many food have already been eaten. 
+	Implementing the head of the snake involved being able to move it up, down, left, 
+and right. This is done by waiting for the users input. When this occurs the position
+the space on the board is updated with the current object, which in this would be the 
+head of the snake. This will eventually lead to the rest of the snakes body to trail 
+this head object. 

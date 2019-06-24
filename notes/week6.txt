@@ -1,0 +1,12 @@
+	The focus of this weeks was mainly focused on establishing the board for the 
+ game to be played on. This involved meeting for 4 hours and discussing how we were 
+ going to about displaying the snake and previously described board. This led to an
+ initial roadblock of deciding whether to use a static or dynamically allocated array 
+ to represent our game board. We ended up deciding on a dynamically allocated array 
+ as we wanted to give users the ability to choose between three different sizes of 
+ board. A large(16x16), medium(12x12), small(8x8) board options which the user enters 
+ when prompted. 
+
+  	We also planned how we wanted to break down the project into specific classes and 
+ functions. Which led to another roadblock of defining what would be contained in our 
+ board class and what would be contained in our snake class.
