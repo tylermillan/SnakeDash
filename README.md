@@ -1,10 +1,6 @@
-# CIS330_Final_Project
+# Snake Dash
 
 Group Members: Tyler Millan, Bryce Di Geronimo
-
-Instructor: Boyana Norris
-
-Final Project for CIS 330 Winter 2019
 
 Description of Project:
 This is a modified version of the classic snake game written in C++. It uses a snake head which the user is able
